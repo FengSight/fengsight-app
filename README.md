@@ -24,6 +24,10 @@ npm install
 expo start
 ```
 
+### usage
+- `npm run ios` -- (`npx expo run:ios`) Build the iOS App (requires a MacOS computer).
+- `npm run android` -- (`npx expo run:android`) Build the Android App.
+- `npm run web` -- (`npx expo start --web`) Run the website in your browser.
 
 ## Running the tests
 
